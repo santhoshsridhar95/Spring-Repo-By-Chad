@@ -2,4 +2,3 @@ Hi this is Demo file
 gh
 
 Hello world 1st commit
-2nd commit
